@@ -4,6 +4,6 @@ We trained a large ensemble of deep learning frameworks where FFNNs, CNNs and Tr
 
 This repository contains Tensorflow implementation and architecture illustration of our model.
 
-This work is also a group project for CSC413- Deep Learning and Neural Networks taught by Prof. Jimmy Ba and Prof. Bo Wang. 
+This work is also a group project for CSC413- Deep Learning and Neural Networks taught by Prof. Jimmy Ba (https://jimmylba.github.io/) and Prof. Bo Wang (https://www.wanglab.ml/). 
 
 Details about the challenge can be found here: https://www.kaggle.com/competitions/ubiquant-market-prediction/overview
