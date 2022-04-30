@@ -1,5 +1,4 @@
 # Ubiquant-Market-Prediction-Competition
-Ubiquant Market Prediction Competition
 
 We trained a large ensemble of deep learning frameworks where FFNNs, CNNs and Transformer models are included to forecast the return rates of 3773 investment assets in the market. We also utilized this model in the Ubiquant Market Prediction competition on Kaggle to learn 300 anonymized features and achieved 46/2893 in the public leaderboard ranking (top 2%).
 
